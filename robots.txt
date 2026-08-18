@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-xhyioi.cnkitawin.online/sitemap.xml
